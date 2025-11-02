@@ -1,50 +1,650 @@
 [
   {
+    "il_adi": "Adana",
+    "plaka_kodu": 1,
+    "latitude": 37.0,
+    "longitude": 35.3213,
+    "kisa_bilgi": "Zengin mutfağı, sıcakkanlı insanları ve Seyhan Nehri'nin bereketiyle tanınan bir Çukurova şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1623523333542-3a3952a85e43?q=80&w=1974&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Adıyaman",
+    "plaka_kodu": 2,
+    "latitude": 37.7648,
+    "longitude": 38.2786,
+    "kisa_bilgi": "Nemrut Dağı ve Kommagene kalıntılarıyla ünlü, tarih kokan bir Güneydoğu Anadolu şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1602871875279-3b64c95f7a93?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Afyonkarahisar",
+    "plaka_kodu": 3,
+    "latitude": 38.7569,
+    "longitude": 30.5433,
+    "kisa_bilgi": "Termal suları, haşhaş tarlaları ve ünlü kaymağıyla tanınan tarihi bir Anadolu şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1614505430039-77d0b5b6a9b4?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Ağrı",
+    "plaka_kodu": 4,
+    "latitude": 39.7191,
+    "longitude": 43.0503,
+    "kisa_bilgi": "Türkiye'nin en yüksek dağı olan Ağrı Dağı'na ev sahipliği yapar ve İshak Paşa Sarayı ile ünlüdür.",
+    "resim_url": "https://images.unsplash.com/photo-1628871665789-6c1225d9c3c8?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Amasya",
+    "plaka_kodu": 5,
+    "latitude": 40.6499,
+    "longitude": 35.8353,
+    "kisa_bilgi": "Yeşilırmak kenarındaki tarihi evleriyle bilinen, Osmanlı şehzadelerinin eğitim gördüğü bir kenttir.",
+    "resim_url": "https://images.unsplash.com/photo-1622720712251-0f95a5e4b174?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
     "il_adi": "Ankara",
     "plaka_kodu": 6,
     "latitude": 39.925533,
     "longitude": 32.866287,
-    "kisa_bilgi": "Türkiye'nin başkenti ve en kalabalık ikinci şehri. Modern ve tarihi dokuyu bir arada barındırır.",
+    "kisa_bilgi": "Türkiye'nin başkenti ve en kalabalık ikinci şehri. Anıtkabir'e ev sahipliği yapar.",
     "resim_url": "https://images.unsplash.com/photo-1586790170183-23514152d24b?q=80&w=2070&auto=format&fit=crop"
-  },
-  {
-    "il_adi": "İstanbul",
-    "plaka_kodu": 34,
-    "latitude": 41.0082,
-    "longitude": 28.9784,
-    "kisa_bilgi": "İki kıtayı birleştiren, dünyanın en büyüleyici metropollerinden biri. Tarih, kültür ve sanatın kalbidir.",
-    "resim_url": "https://images.unsplash.com/photo-1527838832700-5059252407fa?q=80&w=1996&auto=format&fit=crop"
-  },
-  {
-    "il_adi": "İzmir",
-    "plaka_kodu": 35,
-    "latitude": 38.4237,
-    "longitude": 27.1428,
-    "kisa_bilgi": "Ege'nin incisi olarak bilinen, sıcak insanları ve canlı sosyal hayatıyla ünlü bir liman şehridir.",
-    "resim_url": "https://images.unsplash.com/photo-1585281223535-b2314b25a9a7?q=80&w=2070&auto=format&fit=crop"
   },
   {
     "il_adi": "Antalya",
     "plaka_kodu": 7,
     "latitude": 36.8969,
     "longitude": 30.7133,
-    "kisa_bilgi": "Turkuaz renkli denizi, altın sarısı kumsalları ve antik kentleriyle Türkiye'nin turizm başkentidir.",
+    "kisa_bilgi": "Turkuaz denizi, altın kumsalları ve antik kentleriyle Türkiye'nin turizm başkentidir.",
     "resim_url": "https://images.unsplash.com/photo-1616699139833-8a7c43a3cdd4?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Artvin",
+    "plaka_kodu": 8,
+    "latitude": 41.1833,
+    "longitude": 41.8167,
+    "kisa_bilgi": "Yemyeşil yaylaları, Karagöller'i ve Çoruh Nehri ile ünlü, sarp kayalıklar üzerine kurulmuş bir Karadeniz şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1623246976576-9dfdbeed52b0?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Aydın",
+    "plaka_kodu": 9,
+    "latitude": 37.845,
+    "longitude": 27.8396,
+    "kisa_bilgi": "Efes, Milet ve Didim gibi antik kentlere ev sahipliği yapan, zeytin ve incir diyarı bir Ege şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1593431029151-0f95a5e4b8ff?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Balıkesir",
+    "plaka_kodu": 10,
+    "latitude": 39.6484,
+    "longitude": 27.8826,
+    "kisa_bilgi": "Hem Marmara hem Ege Denizi’ne kıyısı olan, Kaz Dağları ve Ayvalık ile ünlü bir 'iki denizli' şehirdir.",
+    "resim_url": "https://images.unsplash.com/photo-1624375364096-fcb5ecb60fd4?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Bilecik",
+    "plaka_kodu": 11,
+    "latitude": 40.1425,
+    "longitude": 29.9793,
+    "kisa_bilgi": "Osmanlı İmparatorluğu'nun doğduğu topraklar olarak bilinen, Şeyh Edebali Türbesi'ne ev sahipliği yapan tarihi şehirdir.",
+    "resim_url": "https://images.unsplash.com/photo-1601485671026-1e6b36e69d75?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Bingöl",
+    "plaka_kodu": 12,
+    "latitude": 38.8854,
+    "longitude": 40.4966,
+    "kisa_bilgi": "Adını efsanevi Bingöl Dağları'ndan alan ve 'Yüzen Adalar' gibi doğa harikalarına sahip bir Doğu Anadolu kentidir.",
+    "resim_url": "https://images.unsplash.com/photo-1596482613600-ecb87e7c101c?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Bitlis",
+    "plaka_kodu": 13,
+    "latitude": 38.4,
+    "longitude": 42.1083,
+    "kisa_bilgi": "Nemrut Krater Gölü'ne ve tarihi Bitlis Kalesi'ne ev sahipliği yapan, tütünü ve balıyla meşhur bir şehirdir.",
+    "resim_url": "https://images.unsplash.com/photo-1596706095392-b4a3c26002f2?q=80&w=1932&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Bolu",
+    "plaka_kodu": 14,
+    "latitude": 40.7347,
+    "longitude": 31.6075,
+    "kisa_bilgi": "Abant ve Yedigöller gibi doğal güzellikleriyle ünlü, Türkiye'nin en önemli oksijen depolarından ve aşçılar diyarıdır.",
+    "resim_url": "https://images.unsplash.com/photo-1575402116121-5f0f3f21f7e0?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Burdur",
+    "plaka_kodu": 15,
+    "latitude": 37.7194,
+    "longitude": 30.2833,
+    "kisa_bilgi": "'Göller Yöresi'nde yer alan, 'Türkiye'nin Maldivleri' olarak bilinen Salda Gölü ile ünlü bir şehirdir.",
+    "resim_url": "https://images.unsplash.com/photo-1608333391398-386f6d61d85b?q=80&w=1974&auto=format&fit=crop"
   },
   {
     "il_adi": "Bursa",
     "plaka_kodu": 16,
-    "latitude": 40.1885,
-    "longitude": 29.0610,
-    "kisa_bilgi": "Osmanlı İmparatorluğu'nun ilk başkenti olan, yeşil doğası ve tarihi yapılarıyla bilinen bir sanayi şehridir.",
-    "resim_url": "https://images.unsplash.com/photo-1621994213034-06a1e487136a?q=80&w=2070&auto=format&fit=crop"
+    "latitude": 40.18,
+    "longitude": 29.07,
+    "kisa_bilgi": "Osmanlı'nın ilk başkenti, 'Yeşil Bursa' olarak anılır. Uludağ, tarihi hanları ve ipeğiyle meşhurdur.",
+    "resim_url": "https://images.unsplash.com/photo-1595116909407-50a3aad36c44?q=80&w=2070&auto=format&fit=crop"
   },
   {
-    "il_adi": "Adana",
-    "plaka_kodu": 1,
-    "latitude": 37.0000,
-    "longitude": 35.3213,
-    "kisa_bilgi": "Zengin mutfağı, sıcakkanlı insanları ve Seyhan Nehri'nin bereketiyle tanınan bir Çukurova şehridir.",
+    "il_adi": "Çanakkale",
+    "plaka_kodu": 17,
+    "latitude": 40.1519,
+    "longitude": 26.4056,
+    "kisa_bilgi": "Tarihi Gelibolu Yarımadası ve Truva Antik Kenti'ne ev sahipliği yapan, iki kıtada toprağı olan destansı bir şehirdir.",
+    "resim_url": "https://images.unsplash.com/photo-1685711684341-37d428989c7b?q=80&w=1974&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Çankırı",
+    "plaka_kodu": 18,
+    "latitude": 40.5986,
+    "longitude": 33.6192,
+    "kisa_bilgi": "İç Anadolu'da yer alan, kaya tuzu mağaraları ve yaren kültürü ile bilinen tarihi bir kenttir.",
+    "resim_url": "https://images.unsplash.com/photo-1632124507550-b747061d31b0?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Çorum",
+    "plaka_kodu": 19,
+    "latitude": 40.55,
+    "longitude": 34.95,
+    "kisa_bilgi": "Hitit İmparatorluğu'nun başkenti Hattuşaş'a ev sahipliği yapan, leblebisiyle ünlü bir Anadolu şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1623133310069-c0116aec6d47?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Denizli",
+    "plaka_kodu": 20,
+    "latitude": 37.7833,
+    "longitude": 29.0964,
+    "kisa_bilgi": "Pamukkale'nin beyaz travertenleri ve Hierapolis Antik Kenti ile dünyaca ünlü bir turizm merkezidir.",
+    "resim_url": "https://images.unsplash.com/photo-1583562622437-c62955d7f1fc?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Diyarbakır",
+    "plaka_kodu": 21,
+    "latitude": 37.9144,
+    "longitude": 40.2309,
+    "kisa_bilgi": "Tarihi surları, Hevsel Bahçeleri ve zengin kültürel mirasıyla bilinen, Güneydoğu'nun kadim bir merkezidir.",
+    "resim_url": "https://images.unsplash.com/photo-1616738314115-465f80f1b2c3?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Edirne",
+    "plaka_kodu": 22,
+    "latitude": 41.6771,
+    "longitude": 26.5557,
+    "kisa_bilgi": "Osmanlı'ya başkentlik yapmış, Selimiye Camii gibi bir şahesere ve Kırkpınar güreşlerine ev sahipliği yapan Trakya şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1599587442183-a1b3b5c6e83e?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Elazığ",
+    "plaka_kodu": 23,
+    "latitude": 38.6747,
+    "longitude": 39.2215,
+    "kisa_bilgi": "Tarihi Harput Kalesi, Hazar Gölü ve zengin 'Gakgoş' kültürüyle bilinen bir Doğu Anadolu şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1622405412513-39e2f7902d3f?q=80&w=1974&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Erzincan",
+    "plaka_kodu": 24,
+    "latitude": 39.749,
+    "longitude": 39.4932,
+    "kisa_bilgi": "Fırat Nehri'nin kollarının geçtiği, Girlevik Şelalesi ve tulum peyniriyle ünlü bir Doğu Anadolu şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1606555243147-fc7c1b5003c2?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Erzurum",
+    "plaka_kodu": 25,
+    "latitude": 39.904,
+    "longitude": 41.272,
+    "kisa_bilgi": "'Dadaşlar diyarı', Çifte Minareli Medrese gibi Selçuklu eserleri ve Palandöken Kayak Merkezi ile ünlüdür.",
+    "resim_url": "https://images.unsplash.com/photo-1601006264906-8c106c6e7a2c?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Eskişehir",
+    "plaka_kodu": 26,
+    "latitude": 39.7667,
+    "longitude": 30.5206,
+    "kisa_bilgi": "Porsuk Çayı kenarındaki modern yaşamı, lületaşı ve 'öğrenci kenti' kimliğiyle bilinen bir Anadolu şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1616787340620-7f7a3f0c1db7?q=80&w=1935&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Gaziantep",
+    "plaka_kodu": 27,
+    "latitude": 37.066,
+    "longitude": 37.3833,
+    "kisa_bilgi": "UNESCO gastronomi şehri. Zengin mutfağı, baklavası ve Zeugma Mozaik Müzesi ile dünyaca ünlüdür.",
+    "resim_url": "https://images.unsplash.com/photo-1620027732159-8f65609310d5?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Giresun",
+    "plaka_kodu": 28,
+    "latitude": 40.9175,
+    "longitude": 38.3928,
+    "kisa_bilgi": "Karadeniz'in fındık başkenti olarak bilinir ve adası olan tek Karadeniz şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1622353381084-386d75c0410f?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Gümüşhane",
+    "plaka_kodu": 29,
+    "latitude": 40.4608,
+    "longitude": 39.4797,
+    "kisa_bilgi": "Tarihi İpek Yolu üzerinde yer alan, pestili, kömesi ve Karaca Mağarası ile ünlü bir Karadeniz şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1629119106043-e45f7c3c0c0b?q=80&w=1974&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Hakkari",
+    "plaka_kodu": 30,
+    "latitude": 37.574,
+    "longitude": 43.7408,
+    "kisa_bilgi": "Türkiye'nin en güneydoğu ucunda yer alan, sarp dağları, Cilo ve Sat Buzulları ile bilinen bir sınır kentidir.",
+    "resim_url": "https://images.unsplash.com/photo-1596706095392-b4a3c26002f2?q=80&w=1932&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Hatay",
+    "plaka_kodu": 31,
+    "latitude": 36.202,
+    "longitude": 36.16,
+    "kisa_bilgi": "Medeniyetler beşiği olarak bilinen, zengin mutfağı, St. Pierre Kilisesi ve mozaik müzesi ile ünlü bir Akdeniz şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1614558519104-c8112b3da383?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Isparta",
+    "plaka_kodu": 32,
+    "latitude": 37.7648,
+    "longitude": 30.5519,
+    "kisa_bilgi": "'Güller Diyarı' olarak bilinir, Türkiye'nin gül yağı üretiminin büyük kısmını karşılar. Eğirdir Gölü'ne ev sahipliği yapar.",
+    "resim_url": "https://images.unsplash.com/photo-1619934163013-c3e6634c0649?q=80&w=1964&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Mersin",
+    "plaka_kodu": 33,
+    "latitude": 36.8121,
+    "longitude": 34.6415,
+    "kisa_bilgi": "Türkiye'nin en büyük limanlarından birine sahip, tantunisi ve Kızkalesi ile ünlü bir Akdeniz kentidir.",
+    "resim_url": "https://images.unsplash.com/photo-1595183422837-a16f2c81512f?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "İstanbul",
+    "plaka_kodu": 34,
+    "latitude": 41.0082,
+    "longitude": 28.9784,
+    "kisa_bilgi": "İki kıtayı birleştiren, imparatorluklara başkentlik yapmış, dünyanın en önemli ve kalabalık metropollerinden biridir.",
+    "resim_url": "https://images.unsplash.com/photo-1527440938171-791f1981504b?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "İzmir",
+    "plaka_kodu": 35,
+    "latitude": 38.4237,
+    "longitude": 27.1428,
+    "kisa_bilgi": "'Ege'nin İncisi' olarak bilinir. Kordon'u, Saat Kulesi ve Efes Antik Kenti yakınlığıyla ünlü liman şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1583270498056-2675d65c366e?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Kars",
+    "plaka_kodu": 36,
+    "latitude": 40.601,
+    "longitude": 43.097,
+    "kisa_bilgi": "Ani Harabeleri, Çıldır Gölü ve Doğu Ekspresi'nin son durağı olmasıyla ünlü, tarihi bir serhat şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1603513750897-b97f0a996d9e?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Kastamonu",
+    "plaka_kodu": 37,
+    "latitude": 41.3768,
+    "longitude": 33.7766,
+    "kisa_bilgi": "Küre Dağları Milli Parkı, Valla Kanyonu ve tarihi konaklarıyla ünlü bir Batı Karadeniz şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1609650428178-5d29d00b1d3d?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Kayseri",
+    "plaka_kodu": 38,
+    "latitude": 38.7303,
+    "longitude": 35.4851,
+    "kisa_bilgi": "Erciyes Dağı, tarihi Kayseri Kalesi, pastırması ve mantısıyla ünlü bir İç Anadolu sanayi şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1620027732159-8f65609310d5?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Kırklareli",
+    "plaka_kodu": 39,
+    "latitude": 41.7348,
+    "longitude": 27.225,
+    "kisa_bilgi": "Trakya'nın 'Vize' ve 'İğneada Longoz Ormanları' gibi doğal güzelliklerine sahip, sakin bir sınır şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1605329868735-e6503c5d64b5?q=80&w=1974&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Kırşehir",
+    "plaka_kodu": 40,
+    "latitude": 39.1462,
+    "longitude": 34.1601,
+    "kisa_bilgi": "Ahilik kültürünün merkezi ve 'Bozkırın Tezenesi' Neşet Ertaş'ın memleketi olan, ozanlar diyarı bir Anadolu kentidir.",
+    "resim_url": "https://images.unsplash.com/photo-1600072714271-6c708c3d5e23?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Kocaeli",
+    "plaka_kodu": 41,
+    "latitude": 40.7656,
+    "longitude": 29.941,
+    "kisa_bilgi": "Türkiye'nin en önemli sanayi ve liman kentlerinden biri. Pişmaniyesi ve Kartepe Kayak Merkezi ile bilinir.",
+    "resim_url": "https://images.unsplash.com/photo-1618490099515-d22f67e5845c?q=80&w=1974&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Konya",
+    "plaka_kodu": 42,
+    "latitude": 37.8746,
+    "longitude": 32.4932,
+    "kisa_bilgi": "Mevlana Celaleddin Rumi'nin şehri, Selçuklu İmparatorluğu'nun başkenti ve Türkiye'nin yüzölçümü en büyük ilidir.",
+    "resim_url": "https://images.unsplash.com/photo-1602497136001-f2f293b44b82?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Kütahya",
+    "plaka_kodu": 43,
+    "latitude": 39.4204,
+    "longitude": 29.9806,
+    "kisa_bilgi": "Dünyaca ünlü çinileri, Aizanoi Antik Kenti ve termal kaynaklarıyla bilinen bir Ege şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1614558519104-c8112b3da383?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Malatya",
+    "plaka_kodu": 44,
+    "latitude": 38.3553,
+    "longitude": 38.3095,
+    "kisa_bilgi": "Dünyanın 'kayısı başkenti' olarak bilinen, Arslantepe Höyüğü gibi tarihi değerlere sahip bir Doğu Anadolu şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1623133310069-c0116aec6d47?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Manisa",
+    "plaka_kodu": 45,
+    "latitude": 38.6133,
+    "longitude": 27.425,
+    "kisa_bilgi": "Osmanlı şehzadelerinin eğitim gördüğü 'Şehzadeler Şehri' olarak bilinir. Mesir macunu ve Spil Dağı ile ünlüdür.",
+    "resim_url": "https://images.unsplash.com/photo-1593431029151-0f95a5e4b8ff?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Kahramanmaraş",
+    "plaka_kodu": 46,
+    "latitude": 37.5753,
+    "longitude": 36.922,
+    "kisa_bilgi": "İstiklal Madalyalı 'Kahraman' şehir. Ünlü Maraş dondurması ve kırmızı biberi ile tanınır.",
     "resim_url": "https://images.unsplash.com/photo-1623523333542-3a3952a85e43?q=80&w=1974&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Mardin",
+    "plaka_kodu": 47,
+    "latitude": 37.3129,
+    "longitude": 40.735,
+    "kisa_bilgi": "Taş işçiliğinin zirveye ulaştığı tarihi evleri, medreseleri ve çok kültürlü yapısıyla bilinen bir Mezopotamya şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1616035973784-23910c25c34e?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Muğla",
+    "plaka_kodu": 48,
+    "latitude": 37.2153,
+    "longitude": 28.3639,
+    "kisa_bilgi": "Bodrum, Fethiye, Marmaris gibi dünyaca ünlü turizm merkezlerine ev sahipliği yapan bir Ege cennetidir.",
+    "resim_url": "https://images.unsplash.com/photo-1574513682940-b7aae5a75b28?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Muş",
+    "plaka_kodu": 49,
+    "latitude": 38.7363,
+    "longitude": 41.4883,
+    "kisa_bilgi": "Tarihi Malazgirt Zaferi'nin yaşandığı topraklara ev sahipliği yapan, lalesiyle ünlü bir Doğu Anadolu şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1596706095392-b4a3c26002f2?q=80&w=1932&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Nevşehir",
+    "plaka_kodu": 50,
+    "latitude": 38.6247,
+    "longitude": 34.714,
+    "kisa_bilgi": "Kapadokya bölgesinin kalbi. Peribacaları, yeraltı şehirleri ve sıcak hava balon turları ile dünyaca ünlüdür.",
+    "resim_url": "https://images.unsplash.com/photo-1571923485703-68779d01baff?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Niğde",
+    "plaka_kodu": 51,
+    "latitude": 37.9669,
+    "longitude": 34.6769,
+    "kisa_bilgi": "Aladağlar ve Bolkar Dağları'na ev sahipliği yapan, elması ve tarihi Gümüşler Manastırı ile bilinen bir İç Anadolu kentidir.",
+    "resim_url": "https://images.unsplash.com/photo-1623133310069-c0116aec6d47?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Ordu",
+    "plaka_kodu": 52,
+    "latitude": 40.9862,
+    "longitude": 37.8797,
+    "kisa_bilgi": "Boztepe'den görülen muhteşem manzarası ve Türkiye'nin en kaliteli fındıklarının yetiştiği bir Karadeniz şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1622353381084-386d75c0410f?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Rize",
+    "plaka_kodu": 53,
+    "latitude": 41.0201,
+    "longitude": 40.5218,
+    "kisa_bilgi": "Türkiye'nin 'çay başkenti'. Yemyeşil çay tarlaları, Fırtına Deresi ve Ayder Yaylası ile ünlüdür.",
+    "resim_url": "https://images.unsplash.com/photo-1586903330635-5660b45780d6?q=80&w=1968&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Sakarya",
+    "plaka_kodu": 54,
+    "latitude": 40.773,
+    "longitude": 30.3948,
+    "kisa_bilgi": "Marmara Bölgesi'nde yer alan, Sapanca Gölü'nün güzelliği ve sanayisiyle bilinen bir şehirdir.",
+    "resim_url": "https://images.unsplash.com/photo-1618490099515-d22f67e5845c?q=80&w=1974&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Samsun",
+    "plaka_kodu": 55,
+    "latitude": 41.2797,
+    "longitude": 36.3361,
+    "kisa_bilgi": "Mustafa Kemal Atatürk'ün 19 Mayıs 1919'da milli mücadeleyi başlattığı, Karadeniz'in en büyük liman kentidir.",
+    "resim_url": "https://images.unsplash.com/photo-1605329868735-e6503c5d64b5?q=80&w=1974&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Siirt",
+    "plaka_kodu": 56,
+    "latitude": 37.9332,
+    "longitude": 41.942,
+    "kisa_bilgi": "Tillo (Aydınlar) ilçesindeki tarihi medreseleri, 'Bıttım' sabunu ve fıstığıyla bilinen bir Güneydoğu kentidir.",
+    "resim_url": "https://images.unsplash.com/photo-1596706095392-b4a3c26002f2?q=80&w=1932&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Sinop",
+    "plaka_kodu": 57,
+    "latitude": 42.023,
+    "longitude": 35.1537,
+    "kisa_bilgi": "Türkiye'nin en kuzey ucu. Tarihi cezaevi, Hamsilos Koyu ve mutlu insanlarıyla bilinen bir Karadeniz limanıdır.",
+    "resim_url": "https://images.unsplash.com/photo-1622353381084-386d75c0410f?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Sivas",
+    "plaka_kodu": 58,
+    "latitude": 39.7505,
+    "longitude": 37.015,
+    "kisa_bilgi": "Sivas Kongresi'ne ev sahipliği yaparak cumhuriyetin temellerinin atıldığı, Divriği Ulu Camii gibi şaheserlere sahip bir şehirdir.",
+    "resim_url": "https://images.unsplash.com/photo-1600072714271-6c708c3d5e23?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Tekirdağ",
+    "plaka_kodu": 59,
+    "latitude": 40.9785,
+    "longitude": 27.5117,
+    "kisa_bilgi": "Marmara Denizi kıyısında, ayçiçeği tarlaları, üzüm bağları ve köftesiyle ünlü bir Trakya şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1618490099515-d22f67e5845c?q=80&w=1974&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Tokat",
+    "plaka_kodu": 60,
+    "latitude": 40.3235,
+    "longitude": 36.55,
+    "kisa_bilgi": "Yeşilırmak havzasında yer alan, tarihi konakları, Ballıca Mağarası ve lezzetli Tokat kebabıyla bilinen bir şehirdir.",
+    "resim_url": "https://images.unsplash.com/photo-1622720712251-0f95a5e4b174?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Trabzon",
+    "plaka_kodu": 61,
+    "latitude": 41.0027,
+    "longitude": 39.7168,
+    "kisa_bilgi": "Karadeniz'in incisi. Sümela Manastırı, Uzungöl ve fırtınalı futbol kültürüyle ünlü tarihi bir liman kentidir.",
+    "resim_url": "https://images.unsplash.com/photo-1588005391122-f02a9a4b37d8?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Tunceli",
+    "plaka_kodu": 62,
+    "latitude": 39.1061,
+    "longitude": 39.5483,
+    "kisa_bilgi": "Munzur Vadisi Milli Parkı, zengin biyoçeşitliliği ve Alevi kültürü için önemli bir merkezdir.",
+    "resim_url": "https://images.unsplash.com/photo-1622405412513-39e2f7902d3f?q=80&w=1974&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Şanlıurfa",
+    "plaka_kodu": 63,
+    "latitude": 37.1674,
+    "longitude": 38.7969,
+    "kisa_bilgi": "'Peygamberler Şehri' olarak bilinir. Balıklıgöl, Göbeklitepe ve Harran ile tarihin sıfır noktasıdır.",
+    "resim_url": "https://images.unsplash.com/photo-1601633596208-160b7c7e5a7b?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Uşak",
+    "plaka_kodu": 64,
+    "latitude": 38.6738,
+    "longitude": 29.4018,
+    "kisa_bilgi": "Ege Bölgesi'nde yer alan, kilimleriyle meşhur, 'İlkler Şehri' (ilk şeker fabrikası, ilk elektrik) olarak bilinir.",
+    "resim_url": "https://images.unsplash.com/photo-1593431029151-0f95a5e4b8ff?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Van",
+    "plaka_kodu": 65,
+    "latitude": 38.501,
+    "longitude": 43.373,
+    "kisa_bilgi": "Türkiye'nin en büyük gölü olan Van Gölü'ne, Akdamar Adası'na ve ünlü Van kedisine ev sahipliği yapar.",
+    "resim_url": "https://images.unsplash.com/photo-1596706095392-b4a3c26002f2?q=80&w=1932&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Yozgat",
+    "plaka_kodu": 66,
+    "latitude": 39.8181,
+    "longitude": 34.8118,
+    "kisa_bilgi": "İç Anadolu'nun merkezinde yer alan, Türkiye'nin ilk milli parkı olan Yozgat Çamlığı'na sahip bir şehirdir.",
+    "resim_url": "https://images.unsplash.com/photo-1600072714271-6c708c3d5e23?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Zonguldak",
+    "plaka_kodu": 67,
+    "latitude": 41.456,
+    "longitude": 31.7987,
+    "kisa_bilgi": "Batı Karadeniz'de yer alan, Türkiye'nin en önemli taş kömürü havzalarına sahip 'Emeğin Başkenti'dir.",
+    "resim_url": "https://images.unsplash.com/photo-1622353381084-386d75c0410f?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Aksaray",
+    "plaka_kodu": 68,
+    "latitude": 38.3687,
+    "longitude": 34.037,
+    "kisa_bilgi": "Kapadokya'nın giriş kapısı olarak bilinen, Ihlara Vadisi ve Eğri Minare (Kızıl Minare) ile ünlü bir şehirdir.",
+    "resim_url": "https://images.unsplash.com/photo-1623133310069-c0116aec6d47?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Bayburt",
+    "plaka_kodu": 69,
+    "latitude": 40.2551,
+    "longitude": 40.2246,
+    "kisa_bilgi": "Tarihi Bayburt Kalesi ve Çoruh Nehri'nin doğduğu topraklarda yer alan, Türkiye'nin en az nüfuslu ilidir.",
+    "resim_url": "https://images.unsplash.com/photo-1629119106043-e45f7c3c0c0b?q=80&w=1974&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Karaman",
+    "plaka_kodu": 70,
+    "latitude": 37.1807,
+    "longitude": 33.2215,
+    "kisa_bilgi": "Karamanoğulları Beyliği'ne başkentlik yapmış, 'Türk dilinin başkenti' olarak bilinen tarihi bir kenttir.",
+    "resim_url": "https://images.unsplash.com/photo-1602497136001-f2f293b44b82?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Kırıkkale",
+    "plaka_kodu": 71,
+    "latitude": 39.8468,
+    "longitude": 33.5152,
+    "kisa_bilgi": "İç Anadolu'da yer alan, Türkiye'nin önemli savunma sanayi kuruluşlarına (MKE) ev sahipliği yapan bir sanayi şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1600072714271-6c708c3d5e23?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Batman",
+    "plaka_kodu": 72,
+    "latitude": 37.8812,
+    "longitude": 41.1351,
+    "kisa_bilgi": "Türkiye'nin en büyük petrol rafinerilerinden birine sahip, tarihi Hasankeyf ile bilinen bir Güneydoğu kentidir.",
+    "resim_url": "https://images.unsplash.com/photo-1616738314115-465f80f1b2c3?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Şırnak",
+    "plaka_kodu": 73,
+    "latitude": 37.518,
+    "longitude": 42.457,
+    "kisa_bilgi": "Cudi Dağı eteklerinde yer alan, tarihi Nuh Tufanı efsaneleriyle anılan bir sınır kentidir.",
+    "resim_url": "https://images.unsplash.com/photo-1596706095392-b4a3c26002f2?q=80&w=1932&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Bartın",
+    "plaka_kodu": 74,
+    "latitude": 41.634,
+    "longitude": 32.3375,
+    "kisa_bilgi": "Tarihi Amasra ilçesi, Kuşkayası Yol Anıtı ve güzel plajlarıyla bilinen bir Batı Karadeniz şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1609650428178-5d29d00b1d3d?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Ardahan",
+    "plaka_kodu": 75,
+    "latitude": 41.1105,
+    "longitude": 42.702,
+    "kisa_bilgi": "Türkiye'nin kuzeydoğusunda, kışın donan Çıldır Gölü ve tarihi Ardahan Kalesi ile bilinen bir serhat şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1603513750897-b97f0a996d9e?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Iğdır",
+    "plaka_kodu": 76,
+    "latitude": 39.9205,
+    "longitude": 44.0435,
+    "kisa_bilgi": "Üç ülkeye (Ermenistan, Azerbaycan, İran) sınırı olan, Ağrı Dağı'nın büyük bir kısmının bulunduğu bir Doğu Anadolu şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1628871665789-6c1225d9c3c8?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Yalova",
+    "plaka_kodu": 77,
+    "latitude": 40.654,
+    "longitude": 29.2769,
+    "kisa_bilgi": "Marmara Denizi kıyısında, termal kaplıcaları ve 'Yürüyen Köşk' ile bilinen, İstanbul'a yakın bir şehirdir.",
+    "resim_url": "https://images.unsplash.com/photo-1618490099515-d22f67e5845c?q=80&w=1974&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Karabük",
+    "plaka_kodu": 78,
+    "latitude": 41.201,
+    "longitude": 32.627,
+    "kisa_bilgi": "UNESCO Dünya Mirası Listesi'ndeki Safranbolu evleri ve Türkiye'nin ilk demir-çelik fabrikasıyla (KARDEMİR) ünlüdür.",
+    "resim_url": "https://images.unsplash.com/photo-1572019463283-d500055c575a?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Kilis",
+    "plaka_kodu": 79,
+    "latitude": 36.717,
+    "longitude": 37.116,
+    "kisa_bilgi": "Güneydoğu Anadolu'da yer alan, zeytinyağı, 'Kilis Tava' kebabı ve tatlısıyla ünlü bir sınır kentidir.",
+    "resim_url": "https://images.unsplash.com/photo-1620027732159-8f65609310d5?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Osmaniye",
+    "plaka_kodu": 80,
+    "latitude": 37.075,
+    "longitude": 36.25,
+    "kisa_bilgi": "Çukurova'da yer alan, yer fıstığı üretimi, Karatepe-Aslantaş Açık Hava Müzesi ve Kastabala Antik Kenti ile bilinir.",
+    "resim_url": "https://images.unsplash.com/photo-1563721157971-a4a35637c86e?q=80&w=1974&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Düzce",
+    "plaka_kodu": 81,
+    "latitude": 40.841,
+    "longitude": 31.157,
+    "kisa_bilgi": "Türkiye'nin en son il olan şehri. Samandere ve Güzeldere şelaleleri gibi doğal güzellikleriyle Batı Karadeniz'de yer alır.",
+    "resim_url": "https://images.unsplash.com/photo-1615886022800-3c7c251d1f03?q=80&w=1964&auto=format&fit=crop"
   }
 ]
