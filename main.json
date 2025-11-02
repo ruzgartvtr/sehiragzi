@@ -1,1 +1,50 @@
-
+[
+  {
+    "il_adi": "Ankara",
+    "plaka_kodu": 6,
+    "latitude": 39.925533,
+    "longitude": 32.866287,
+    "kisa_bilgi": "Türkiye'nin başkenti ve en kalabalık ikinci şehri. Modern ve tarihi dokuyu bir arada barındırır.",
+    "resim_url": "https://images.unsplash.com/photo-1586790170183-23514152d24b?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "İstanbul",
+    "plaka_kodu": 34,
+    "latitude": 41.0082,
+    "longitude": 28.9784,
+    "kisa_bilgi": "İki kıtayı birleştiren, dünyanın en büyüleyici metropollerinden biri. Tarih, kültür ve sanatın kalbidir.",
+    "resim_url": "https://images.unsplash.com/photo-1527838832700-5059252407fa?q=80&w=1996&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "İzmir",
+    "plaka_kodu": 35,
+    "latitude": 38.4237,
+    "longitude": 27.1428,
+    "kisa_bilgi": "Ege'nin incisi olarak bilinen, sıcak insanları ve canlı sosyal hayatıyla ünlü bir liman şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1585281223535-b2314b25a9a7?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Antalya",
+    "plaka_kodu": 7,
+    "latitude": 36.8969,
+    "longitude": 30.7133,
+    "kisa_bilgi": "Turkuaz renkli denizi, altın sarısı kumsalları ve antik kentleriyle Türkiye'nin turizm başkentidir.",
+    "resim_url": "https://images.unsplash.com/photo-1616699139833-8a7c43a3cdd4?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Bursa",
+    "plaka_kodu": 16,
+    "latitude": 40.1885,
+    "longitude": 29.0610,
+    "kisa_bilgi": "Osmanlı İmparatorluğu'nun ilk başkenti olan, yeşil doğası ve tarihi yapılarıyla bilinen bir sanayi şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1621994213034-06a1e487136a?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "il_adi": "Adana",
+    "plaka_kodu": 1,
+    "latitude": 37.0000,
+    "longitude": 35.3213,
+    "kisa_bilgi": "Zengin mutfağı, sıcakkanlı insanları ve Seyhan Nehri'nin bereketiyle tanınan bir Çukurova şehridir.",
+    "resim_url": "https://images.unsplash.com/photo-1623523333542-3a3952a85e43?q=80&w=1974&auto=format&fit=crop"
+  }
+]
