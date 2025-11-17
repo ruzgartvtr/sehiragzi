@@ -1,27 +1,30 @@
+[
   {
     "il_adi": "Ankara",
     "soz": "Ulaşık",
-    "anlam1": "Nişanlı.",
+    "anlam1": "Nişanlı."
   },
   {
     "il_adi": "Çanakkale",
     "soz": "Ulaşık",
-    "anlam1": "Süt ve yoğurttan yapılan bir çeşit peynir.",
+    "anlam1": "Süt ve yoğurttan yapılan bir çeşit peynir."
   },
   {
     "il_adi": "İzmir",
     "soz": "Ulaşık",
-    "anlam1": "Art arda gelen, ardından yetişen.",
+    "anlam1": "Art arda gelen, ardından yetişen."
   },
   {
     "il_adi": "Ankara",
     "soz": "Ulaşık",
-    "anlam1": "Nişanlı",
+    "anlam1": "Nişanlı"
   },
   {
     "il_adi": "Niğde",
     "soz": "Yağadılanmak",
-    "anlam1": "Yağ bulaşığı olmak, yağlı kir birikmek",
-  },
+    "anlam1": "Yağ bulaşığı olmak, yağlı kir birikmek"
+  }
 
 
+
+]
