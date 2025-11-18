@@ -24,7 +24,7 @@
     "soz": "Yağadılanmak",
     "anlam1": "Yağ bulaşığı olmak, yağlı kir birikmek"
   },
-{
+  {
     "il_adi": "Bilecik",
     "soz": "Safa",
     "anlam1": "Abla."
@@ -74,7 +74,7 @@
     "soz": "Ellaım",
     "anlam1": "Herhalde.."
   },
-{
+  {
     "il_adi": "Kayseri",
     "soz": "Ellaım",
     "anlam1": "Herhalde.."
@@ -82,9 +82,9 @@
   {
     "il_adi": "Yozgat",
     "soz": "Ellaım",
-    "anlam1": "Herhalde.."},
-  
-{
+    "anlam1": "Herhalde.."
+  },
+  {
     "il_adi": "Yozgat",
     "soz": "Ellaım",
     "anlam1": "Herhalde.."
@@ -104,7 +104,7 @@
     "soz": "Badal",
     "anlam1": "Merdiven."
   },
-{
+  {
     "il_adi": "Çorum",
     "soz": "Badal",
     "anlam1": "Merdiven."
@@ -112,10 +112,16 @@
   {
     "il_adi": "Çorum",
     "soz": "Singil",
-    "anlam1": "Olması gerekinden yavaş, uyuşuk ve isteksiz olma hali."},
+    "anlam1": "Olması gerekinden yavaş, uyuşuk ve isteksiz olma hali."
+  },
   {
     "il_adi": "Denizli",
     "soz": "Avsalamak",
     "anlam1": "Sarsmak, sallamak."
-  }]
-  
+  },
+  {
+    "il_adi": "Çanakkale",
+    "soz": "Söz",
+    "anlam1": "Anlam 1"
+  }
+]
