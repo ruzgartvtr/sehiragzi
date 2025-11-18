@@ -82,25 +82,40 @@
   {
     "il_adi": "Yozgat",
     "soz": "Ellaım",
-    "anlam1": "Herhalde.."
+    "anlam1": "Herhalde.."},
   
 {
     "il_adi": "Yozgat",
     "soz": "Ellaım",
     "anlam1": "Herhalde.."
-  }
+  },
   {
     "il_adi": "Çorum",
     "soz": "Badal",
     "anlam1": "Merdiven."
-  }
+  },
   {
     "il_adi": "Amasya",
     "soz": "Badal",
     "anlam1": "Merdiven."
-  }
+  },
   {
     "il_adi": "Samsun",
     "soz": "Badal",
     "anlam1": "Merdiven."
-  }
+  },
+{
+    "il_adi": "Çorum",
+    "soz": "Badal",
+    "anlam1": "Merdiven."
+  },
+  {
+    "il_adi": "Çorum",
+    "soz": "Singil",
+    "anlam1": "Olması gerekinden yavaş, uyuşuk ve isteksiz olma hali."},
+  {
+    "il_adi": "Denizli",
+    "soz": "Avsalamak",
+    "anlam1": "Sarsmak, sallamak."
+  }]
+  
