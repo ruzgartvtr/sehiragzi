@@ -340,5 +340,11 @@
     "soz": "Hingilim",
     "anlam1": "Oyun",
     "ornek_cumle": "Bu işte bir hingilim var."
+  },
+  {
+    "il_adi": "Ordu",
+    "soz": "Alamuk",
+    "anlam1": "Bunaltıcı nemli hava",
+    "ornek_cumle": "Hava bugün alamuk\n."
   }
 ]
